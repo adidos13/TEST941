@@ -1,0 +1,32 @@
+body{
+    background: #FFF0F5;
+}
+h1{
+    color: #4B0082;
+    font-family:'Georgia', serif;
+    size: 36px;
+    text-align: center;
+}
+h2{
+    color: #FF8C00;
+    font-family:'Arial', sans-serif;
+    size: 24px;
+    text-align: center;
+}
+.opisaniye{
+    color: #006400;
+    font-family:'Verdana', sans-serif;
+    size: 18px;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFFACD;
+}
+.citaty{
+    color: #555;
+    font-family:'Times New Roman', serif;
+    size: 20px;
+    text-align: center;
+    padding: 15px;
+    background-color: #E6F7FF;
+}
